@@ -10,4 +10,4 @@ Monogenic diseases consist of a single or multiple mutation in a single gene. Th
 ## Content: 
   - Scripts (Python3 and R) available.
   - Original data sets (OMIM, Grch38, DisGeNET, KEGG)
-  - Data set used
+  - Data set used (not available due to size file restrictions)
